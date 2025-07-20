@@ -1,6 +1,6 @@
-# AR Planets Info – Unity Augmented Reality App
+# AR Planets – Unity Augmented Reality App
 
-AR Planets Info** is an educational AR app developed using Unity and AR Foundation. It allows users to explore the solar system in their physical environment by placing 3D planets using their phone camera and learning interesting facts by tapping on each planet.
+AR Planets ** is an educational AR app developed using Unity and AR Foundation. It allows users to explore the solar system in their physical environment by placing 3D planets using their phone camera and learning interesting facts by tapping on each planet.
 
 ---
 
